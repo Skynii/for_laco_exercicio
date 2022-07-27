@@ -1,0 +1,1 @@
+* Exercicio de repetição com For, e desestruturação de Objeto;
